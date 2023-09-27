@@ -9,8 +9,9 @@ Moral? Do more than just an FFT with your data.
 ### Benchmarking
 
 #### 2^24 point FFT
-*GPU: 547 ms
-*GPU (excluding memory ops): 67 us    (nice)
-*CPU (numpy): 971 ms
-*CPU (mine): 17 s   (XD)
-
+| Alg | Time |
+| --- | ---  |
+| GPU | 547 ms |
+| GPU (excluding memory ops) | 67 us |
+| CPU (numpy) | 971 ms |
+| CPU (mine) | 17 s |
